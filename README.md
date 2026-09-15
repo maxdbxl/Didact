@@ -1,0 +1,1 @@
+Project inspired by Rodrigo Pombo's article "Build your own React" (https://pomb.us/build-your-own-react/) to get a better grasp of React and its functioning under the hood (Virtual DOM, reconciliation and fiber architecture)
